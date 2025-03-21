@@ -220,8 +220,8 @@
     <option name="repoIndexingIntervalMs" value="300000" />
   </component>
   <component name="ai.zencoder.plugin.rag.state">
-    <option name="lastCommitHash" value="d699c3d69bee79b3007c1150438742fb2ff9692e" />
-    <option name="lastIndexTimestamp" value="1742553383980" />
+    <option name="lastCommitHash" value="381f6f06a940a0b99314d35db6daeb1576771983" />
+    <option name="lastIndexTimestamp" value="1742554929656" />
     <option name="repositoryId" value="17fe8911-2b7f-4620-b4df-9623fddec45e" />
     <option name="state" value="FULLY_INDEXED" />
   </component>
