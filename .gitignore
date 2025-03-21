@@ -261,4 +261,4 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/flask,python
 
-static/models/model.h5
+static/models/model.h5".idea/" 
