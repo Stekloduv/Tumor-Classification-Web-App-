@@ -15,7 +15,7 @@ Users can upload an image of a tumor, and the system will predict its type (e.g.
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python 3
 - Django
@@ -25,14 +25,14 @@ Users can upload an image of a tumor, and the system will predict its type (e.g.
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
-##1. Clone the Repository
+#1. Clone the Repository
 
 git clone https://github.com/yourusername/tumor-classification-web-app.git
 cd tumor-classification-web-app
 
-##2. Create and Activate a Virtual Environment
+#2. Create and Activate a Virtual Environment
 
 # Linux/macOS
 python3 -m venv venv
@@ -42,19 +42,19 @@ source venv/bin/activate
 python -m venv venv
 venv\Scripts\activate
 
-##3.Install Dependencies
+#3.Install Dependencies
 
 pip install -r requirements.txt
 
-##4. Collect Static Files (optional, for production)
+#4. Collect Static Files (optional, for production)
 
 python manage.py collectstatic
 
-##5. Run Migrations
+#5. Run Migrations
 
 python manage.py migrate
 
-##6. Start the Development Server
+#6. Start the Development Server
 
 python manage.py runserver
 
