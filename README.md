@@ -63,3 +63,7 @@ Go to http://127.0.0.1:8000/ in your browser to use the application.
 ##📌 Disclaimer
 This application is intended for educational and research purposes only.
 It is not certified for medical use. Clinical deployment would require proper validation, regulatory approval, and ethical clearance.
+
+##Model
+https://colab.research.google.com/drive/1_BPWyiiqaT8FPWj_8JEWmX1-HmkiwrVa?usp=sharing
+
