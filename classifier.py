@@ -3,7 +3,7 @@ import numpy as np
 
 
 IMAGE_SIZE = (224, 224)
-CLASS_NAMES = ["1", "2", "3"]  # Відповідно до папок, у яких зберігалися дані під час тренування
+CLASS_NAMES = ["glioma_tumor", "meningioma_tumor", "no_tumor",  "pituitary_tumor"]
 
 
 def load_and_preprocess(path: str, target_size=(224, 224)):  # змінено розмір на 224x224
